@@ -16,7 +16,7 @@ module.exports = function(app) {
   // (ex: localhost:PORT/api/admin... they are shown a JSON of the data in the table)
   // ---------------------------------------------------------------------------
   // Routes - one to index, one to notes
-  app.get('/api/notes', function(req, res) {
+  app.get('notes.html', function(req, res) {
     fs.readFile('./db/db.json', (err, data) => {
       if (err) throw err;
       dbData = JSON.parse(data);
