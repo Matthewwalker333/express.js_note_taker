@@ -24,3 +24,10 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 * Express.js
 * mySQL
 * npm modules
+
+## Questions
+*For any additional information find me at* 
+
+GitHub: [@Matthewwalker333](https://github.com/Matthewwalker333/)
+
+Email: [matthewwalkermw64@gmail.com](mailto:matthewwalkermw64@gmail.com)
